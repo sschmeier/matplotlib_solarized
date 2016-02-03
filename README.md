@@ -11,6 +11,7 @@ Very simple matplotlib colormaps based on the solarized color palette by [Ethan 
 import solarized
 Sol = solarized.Solarized()
 cmap = Sol.cmap()
+Sol.color2hex('base01')
 ```
 
 ## Example
