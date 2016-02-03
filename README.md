@@ -1,6 +1,6 @@
 # Solarized python matplotlib colormap
 ## What is it?
-Very simple matplorlib colormaps based on the solarized color palette by [Ethan Schoonover](http://ethanschoonover.com/solarized).
+Very simple matplotlib colormaps based on the solarized color palette by [Ethan Schoonover](http://ethanschoonover.com/solarized).
 
 ## Requirements
  - matplotlib
